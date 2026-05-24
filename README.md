@@ -2,6 +2,8 @@
 
 A production-minded ML + LLM/RAG system for campaign conversion prediction and complaint intelligence.
 
+🎥 **[Project Demo Video](https://drive.google.com/file/d/1hBCxGXDrI1KrbEVLXew3FSUemo-mthLE/view?usp=sharing)**
+
 ## Architecture
 
 - **ML Lane**: Predicts campaign conversion (term-deposit subscription) using UCI Bank Marketing data
